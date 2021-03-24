@@ -22,11 +22,11 @@ Czech, English, Spanish, Slovak, Bosnian
 - [zuniga.cz](https://zuniga.cz/)
 
 ### My favourite projects :bulb::
-- [Snake in Python :snake:](https://github.com/zunigjor/BI-PYT/tree/bc22cbbc2529fc073947b56147c022be419102e1/semestral_work_snake_game)
-- [C++ RPG Game Engine using an ECS :hocho:](https://github.com/zunigjor/BI-PA2/tree/cd152d259b98da8231c84676408f0b6ba2536edc/Semestralka/RPG_Game_Engine_PA2)
-- [Parking Garage in Java Spring with REST API :car:](https://github.com/zunigjor/BI-TJV/tree/4ce6424e11165b8312baec17905a5d16c15724fd)
-- [Arduino automatic gardening :four_leaf_clover:](https://github.com/zunigjor/BI-ARD/tree/31b543142665c9a29faa9863aa2cdc4126554b3f)
-- [Conceptual model for a parking garage in space :rocket:](https://github.com/zunigjor/BI-KOM/blob/c2b9fad397eefbb71bfa181ff0e271cf883b51ff/BI-KOM_ISPS.pdf)
+- [Snake in Python :snake:](https://github.com/zunigjor/BI-PYT/tree/master/semestral_work_snake_game)
+- [C++ RPG Game Engine using an ECS :hocho:](https://github.com/zunigjor/BI-PA2/tree/master/Semestralka/RPG_Game_Engine_PA2)
+- [Parking Garage in Java Spring with REST API :car:](https://github.com/zunigjor/BI-TJV)
+- [Arduino automatic gardening :four_leaf_clover:](https://github.com/zunigjor/BI-ARD)
+- [Conceptual model for a parking garage in space :rocket:](https://github.com/zunigjor/BI-KOM/blob/master/BI-KOM_ISPS.pdf)
 
 <!--
 **zunigjor/zunigjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
