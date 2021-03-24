@@ -2,10 +2,10 @@
 ## I’m a student at Czech Technical University in Prague, Faculty of Information Technology.
 ### About me:
 - 👨‍🎓 I'm studying _Information systems and management_ at [FIT CTU](https://fit.cvut.cz/en)
-🔭 Currently I am looking for new
+- 🔭 Currently I am looking for new
 experiences in the IT industry. 
 
-IT Skills ⚡:
+### IT Skills ⚡:
 -C, C++, Python, Java
 -Linux & bash
 -git
@@ -14,14 +14,14 @@ IT Skills ⚡:
 -relational database modeling
 -Google search
 
-Languages 💬:
+### Languages 💬:
 -Czech
 -English
 -Spanish
 -Slovak
 -Bosnian
 
-Contact 📫:
+### Contact 📫:
 -zuniga.cz
 
 <!--
