@@ -1,10 +1,8 @@
-# Hello World! 👋
-## My name is **Jorge Zuňiga**
----
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## My name is **Jorge Zuňiga**  
 I’m a student at
 Czech Technical University in Prague,
 Faculty of Information Technology.
----
 ## About me:
 🔭 Currently I am looking for new
 experiences in the IT industry. 
