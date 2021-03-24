@@ -5,24 +5,24 @@
 🔭 Currently I am looking for new
 experiences in the IT industry. 
 
-IT Skills
-C, C++, Python, Java
-Linux & bash
-git
-UML & OntoUML
-SQL
-relational database modeling
-Google search
+IT Skills ⚡:
+-C, C++, Python, Java
+-Linux & bash
+-git
+-UML & OntoUML
+-SQL
+-relational database modeling
+-Google search
 
-Languages
-Czech
-English
-Spanish
-Slovak
-Bosnian
+Languages 💬:
+-Czech
+-English
+-Spanish
+-Slovak
+-Bosnian
 
-Contact:
-zuniga.cz
+Contact 📫:
+-zuniga.cz
 
 <!--
 **zunigjor/zunigjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
