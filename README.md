@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello World! 👋
+## My name is **Jorge Zuňiga**
+---
+I’m a student at
+Czech Technical University in Prague,
+Faculty of Information Technology.
+---
+## About me:
+🔭 Currently I am looking for new
+experiences in the IT industry. 
 
 <!--
 **zunigjor/zunigjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
