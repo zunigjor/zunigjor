@@ -6,23 +6,20 @@
 experiences in the IT industry. 
 
 ### IT Skills ⚡:
--C, C++, Python, Java
--Linux & bash
--git
--UML & OntoUML
--SQL
--relational database modeling
--Google search
+- C, C++, Python, Java
+- Linux & bash
+- git
+- UML & OntoUML
+- SQL
+- relational database modeling
+- Google search
 
 ### Languages 💬:
--Czech
--English
--Spanish
--Slovak
--Bosnian
+Czech, English, Spanish, Slovak, Bosnian
 
 ### Contact 📫:
--zuniga.cz
+- [LinkedIn](https://www.linkedin.com/in/jorge-zuniga-1594a51ba/)
+- [zuniga.cz](https://zuniga.cz/)
 
 <!--
 **zunigjor/zunigjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
