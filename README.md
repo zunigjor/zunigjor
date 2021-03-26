@@ -2,16 +2,15 @@
 ## I’m a student at Czech Technical University in Prague, Faculty of Information Technology.
 ### About me:
 - 👨‍🎓 I'm studying _Information systems and management_ at [FIT CTU](https://fit.cvut.cz/en)
-- 🔭 Currently I am looking for new
-experiences in the IT industry. 
+- 🔭 Looking for new experiences in the IT industry. 
+- I :heart: cooking!
 
 ### IT Skills ⚡:
 - C, C++, Python, Java
 - Linux & bash
 - git
 - UML & OntoUML
-- SQL
-- relational database modeling
+- relational database modeling & SQL
 - Google search
 
 ### Languages 💬:
