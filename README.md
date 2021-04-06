@@ -6,11 +6,12 @@
 - I :heart: cooking!
 
 ### IT Skills ⚡:
-- C, C++, Python, Java
-- Linux & bash
+- C, C++, Python, Java (Spring)
 - git
-- UML & OntoUML
-- relational database modeling & SQL
+- Linux & bash
+- UML (Enterprise Architect) 
+- SQL & database modelling (Oracle SQL Developer)
+- OntoUML & BPMN
 - Google search
 
 ### Languages 💬:
