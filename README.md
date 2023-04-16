@@ -9,7 +9,7 @@
 - git
 - Linux & bash 
 - SQL & database modelling
-- UML, OntoUML
+- UML
 - Google search
 
 ### Languages 💬:
