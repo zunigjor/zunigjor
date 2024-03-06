@@ -2,14 +2,14 @@
 ## I’m a student at Czech Technical University in Prague, Faculty of Information Technology.
 ### About me:
 - 👨‍🎓 Working on a _Web Engineering_ master's degree at [FIT CTU](https://fit.cvut.cz/en)
-- 🔭 Junior Python Dev at Seznam.cz 
 
 ### IT Skills ⚡:
 - C, C++, Python
+- Django
 - git
 - Linux & bash 
 - SQL & database modelling
-- UML
+- Docker
 - Google search
 
 ### Languages 💬:
