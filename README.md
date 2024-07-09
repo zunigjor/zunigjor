@@ -22,7 +22,7 @@
 Czech, English, Spanish, Slovak, Bosnian
 
 ### 📫 Contact:
-- [LinkedIn](www.linkedin.com/in/zunigjor)
+- [LinkedIn](https://www.linkedin.com/in/zunigjor)
 - [zuniga.cz](https://zuniga.cz/)
 
 ### :bulb: My favourite projects:
