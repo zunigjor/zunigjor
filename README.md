@@ -1,4 +1,4 @@
-# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Jorge Zuňiga  
+# Hello World!
 
 ### 💼 Work Experience:
 - **Python Developer at EUROWAG**
