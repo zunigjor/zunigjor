@@ -7,6 +7,8 @@
   - Full stack developer on internal CRM system
   - Python, Django, Typescript, SQL, Docker, GitLab CI
 - **Python Developer at ENGINN EFFECT**
+  - Mass SMS sending app
+  - Python, PyQt
 
 ### 🎓 Education:
 - Master's degree in Web Engineering from [CTU, Faculty of Information Technology](https://www.linkedin.com/school/fit-ctu/)
