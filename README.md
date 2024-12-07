@@ -1,21 +1,22 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Jorge Zuňiga  
 
-### 🎓 Education:
-- Master's degree in Web Engineering from [CTU, Faculty of Information Technology](https://www.linkedin.com/school/fit-ctu/)
-
 ### 💼 Work Experience:
+- **Python Developer at EUROWAG**
+  - Python, Django, GitLab CI/CD, Docker, Kubernetes
 - **Python Developer at Seznam.cz**
-  - Worked on their CRM system
+  - Full stack developer on internal CRM system
   - Python, Django, Typescript, SQL, Docker, GitLab CI
 - **Python Developer at ENGINN EFFECT**
+
+### 🎓 Education:
+- Master's degree in Web Engineering from [CTU, Faculty of Information Technology](https://www.linkedin.com/school/fit-ctu/)
 
 ### ⚡ IT Skills:
 - C, C++, Python
 - Django
 - git
 - Linux & bash 
-- database modelling & SQL
-- Docker
+- Docker, Kubernetes
 - Google search
 
 ### 💬 Languages:
@@ -26,7 +27,7 @@ Czech, English, Spanish, Slovak, Bosnian
 - [zuniga.cz](https://zuniga.cz/)
 
 ### :bulb: My favourite projects:
-- [GoldCraft.app](https://goldcraft.app/)
+- GoldCraft.app
   - Masters thesis project: Web app to help World Of Warcraft crafters make profit.
   - Microservices, Python, Django, JavaScript, React, Docker
 - [Pyhton Snake clone :snake:](https://github.com/zunigjor/BI-PYT/tree/master/semestral_work_snake_game)
